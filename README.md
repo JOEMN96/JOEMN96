@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with Node
 - 💬 Ask me about REACT
 - 📫 How to reach me: @aruljoe37
-* hello
+- 
+
 
 <!--
 **JOEMN96/JOEMN96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
