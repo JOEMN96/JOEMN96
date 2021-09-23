@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @aruljoe37
 
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joemn96)](https://git.io/streak-stats)
