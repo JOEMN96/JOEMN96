@@ -1,9 +1,5 @@
 ### Hello there 👋
 
-
-- 🌱 I’m currently learning Node JS
-- 🤔 I’m looking for help with Node
-- 💬 Ask me about REACT
 - 📫 How to reach me: @aruljoe37
 
 
